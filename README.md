@@ -31,7 +31,7 @@ Repositório dedicado à prática e consolidação dos fundamentos da linguagem 
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/eduardo6560/desafios_python.git
    ```
 
 2. **Acesse a pasta do projeto:**
