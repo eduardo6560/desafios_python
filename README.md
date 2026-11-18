@@ -48,4 +48,4 @@ Repositório dedicado à prática e consolidação dos fundamentos da linguagem 
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Eduardo Matias Korb** — conecte-se comigo no [LinkedIn](https://linkedin.com)!
+Desenvolvido por **Eduardo Matias Korb** — conecte-se comigo no [LinkedIn](https://linkedin.com/in/eduardo-matias-korb)!
