@@ -4,7 +4,7 @@
 # Caso queira testar este arquivo diretamente, apague a linha do 'def rodar()' e ajuste a indentação (espaços).
 def rodar():
     print("Executando o código do exercício 6...")
-    print("Faça um programa que leia vários números e mostre no final a soma, a média, o maior e o menor valor. O programa deve perguntar ao usuário se ele quer ou não continuar a digitar valores.")
+    print("Digite uma quantidade de números e escolha se quer calcular a soma, a média, o maior ou o menor valor.")
 
     
     print("soma = s, média = m, maior = max, menor = min")
